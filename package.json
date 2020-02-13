@@ -1,0 +1,24 @@
+{
+  "name": "news-scraping-app",
+  "version": "1.0.0",
+  "description": "news scraping app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monicarocios/News-Scraping-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monicarocios/News-Scraping-App/issues"
+  },
+  "homepage": "https://github.com/monicarocios/News-Scraping-App#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
