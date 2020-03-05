@@ -6,12 +6,7 @@ This news-scraping app uses Mongoose and Cheerio to scrape news articles from Th
 
 ## How it Works
 
-![Demo]()
-
-### 2. Our database updates once you purchase a valid quantity (does not exceed stock)
-
-![Demo](https://github.com/monicarocios/Node.js-MySQL-Homework/blob/master/demo/update_function_db.gif)
-
+![Demo](https://github.com/monicarocios/News-Scraping-App/blob/master/public/demo/news_scraper.gif)
 
 ## Frameworks Used
 
